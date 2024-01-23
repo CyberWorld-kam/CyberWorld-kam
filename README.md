@@ -10,7 +10,7 @@
 <h2>👨‍💻 My masters in Cybersecurity cursus Projects:</h2>
 
 - <b>Achieving Sarbanes-Oxley (SOX) compliance through Industry Simulation Design and its Security controls(Minor Project)</b>
-  - [Overview of what was done](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Overview of what was done](https://github.com/CyberWorld-kam/SchoolMinorPorject/)
 - <b>Vehicle Tracking system and its security system(school's mini project)</b>
   - [Vehicle Tracking system and its security system:](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(collection logs and mapping the Attacks)</b></i>
 - <b>Sentinel SIEM(school's mini project)</b>
