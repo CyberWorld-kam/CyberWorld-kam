@@ -12,7 +12,7 @@
 - <b>Achieving Sarbanes-Oxley (SOX) compliance through Industry Simulation Design and its Security controls(Minor Project)</b>
   - [Overview of what was done](https://github.com/CyberWorld-kam/SchoolMinorPorject/)
 - <b>Vehicle Tracking system and its security system(school's mini project)</b>
-  - [Vehicle Tracking system and its security system:](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(collection logs and mapping the Attacks)</b></i>
+  - [Vehicle Tracking system and its security system:](https://github.com/CyberWorld-kam/IOT-mini-project) <b><i>(collection logs and mapping the Attacks)</b></i>
 - <b>Sentinel SIEM(school's mini project)</b>
   - [Sentinel on Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(collection logs and mapping the Attacks)</b></i>
   
