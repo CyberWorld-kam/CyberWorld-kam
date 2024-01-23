@@ -14,7 +14,7 @@
 - <b>Vehicle Tracking system and its security system(school's mini project)</b>
   - [Vehicle Tracking system and its security system:](https://github.com/CyberWorld-kam/IOT-mini-project) <b><i>(collection logs and mapping the Attacks)</b></i>
 - <b>Sentinel SIEM(school's mini project)</b>
-  - [Sentinel on Azure](https://github.com/CyberWorld-kam/cloud-mini-project) <b><i>(collection logs and mapping the Attacks)</b></i>
+  - [Sentinel on Azure](https://github.com/CyberWorld-kam/School-cloud-mini-project) <b><i>(collection logs and mapping the Attacks)</b></i>
   
 <h2>👨‍💻 Certifications:</h2>
 
