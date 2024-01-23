@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Vulnerability management(HomeLab)</b>
-  - [Praciting Practicing Vulnerability scanning and management](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Practicing Vulnerability scanning and management using OpenVAS](https://github.com/CyberWorld-kam/VulnerabilityMangement-OpenVAS)
 
   
 
