@@ -5,7 +5,10 @@
 - <b>Vulnerability management(HomeLab)</b>
   - [Praciting Practicing Vulnerability scanning and management using OpenVAS](https://github.com/CyberWorld-kam/VulnerabilityMangement-OpenVAS)
 
-  
+- <b>Vulnerability management(HomeLab)</b>
+  - [Wazuh SIEM Lab(Over Azure cloud Platform)](https://github.com/CyberWorld-kam/VulnerabilityMangement-OpenVAS)
+
+    
 
 <h2>👨‍💻 My masters in Cybersecurity cursus Projects:</h2>
 
