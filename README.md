@@ -6,7 +6,7 @@
   - [Praciting Practicing Vulnerability scanning and management using OpenVAS](https://github.com/CyberWorld-kam/VulnerabilityMangement-OpenVAS)
 
 - <b>Wazuh SIEM(HomeLab)</b>
-  - [Wazuh SIEM (Over Azure cloud Platform)](https://github.com/CyberWorld-kam/VulnerabilityMangement-OpenVAS)
+  - [Wazuh SIEM (Over Azure cloud Platform)](https://github.com/CyberWorld-kam/Wazuhlabepos)
 
     
 
