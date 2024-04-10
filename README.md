@@ -10,9 +10,10 @@ I support proactive cybersecurity, and I'm prepared to use my analytical abiliti
 
 - Vulnerability assessment and Penetration Testing,
 - Digital forensics,
-- Security analysis,
-- SOC analysis,
-- cybersecurity awareness.
+- Security analyst,
+- SOC analyst,
+- cybersecurity awareness,
+- cybersecurity Trainer.
 
 <h2>👨‍💻 Personal Projects:</h2>
 
