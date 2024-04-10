@@ -13,6 +13,13 @@
 <h2>👨‍💻 My masters in Cybersecurity cursus Projects:</h2>
 
 - <b>Achieving Sarbanes-Oxley (SOX) compliance through Industry Simulation Design and its Security controls(Minor Project)</b>
+o The goal of this project is to create a network infrastructure that is replicated throughout the business and industry and complies with SOX regulations. It also involves determining and putting into place access control and security measures to protect financial reports, data, and the systems that house the aforementioned information.</b>
+o Using VMware Workstation Pro and GNS3, a real-world business network was designed and simulated.</b>
+o Implemented firewall, DMZ, and access control using Active Directory for identity provisioning and management.</b>
+o Added backup functionality for system data backups.</b>
+o Used ManageEngine EventLog Analyzer to gather logs and evaluate security occurrences.</b>
+
+
   - [Overview of what was done](https://github.com/CyberWorld-kam/SchoolMinorPorject/)
 - <b>Vehicle Tracking system and its security system(school's mini project)</b>
   - [Vehicle Tracking system and its security system:](https://github.com/CyberWorld-kam/IOT-mini-project) <b><i>(collection logs and mapping the Attacks)</b></i>
