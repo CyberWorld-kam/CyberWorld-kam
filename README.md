@@ -63,12 +63,41 @@ I support proactive cybersecurity, and I'm prepared to use my analytical abiliti
   
 <h2>👨‍💻 Certifications:</h2>
 
-- ISC2)-Certified Cyberscurity
-- certified Android Forensic with Belkasoft X
-<h2>👨‍💻 Interships:</h2>
+- (ISC2)-Certified Cyberscurity                        March 2024
+- certified Android Forensic with Belkasoft X          March 2024
+- ISO/IEC 27001 Information Security Associate         Feb 2024                                                   
+  
+<h2>👨‍💻 Expirience:</h2>
 
+- Mastercard Cybersecurity virtual experience program on Forage - Feb 2024
+
+  - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+  - Helped identify and report security threats such as phishing 
+  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+    
+- AIG Shields Up: Cybersecurity virtual experience program on Forage - Feb 2024
+
+  - Completed a cybersecurity threat analysis simulation for the Cyber Defense Unit, staying updated on CISA publications.
+  - Researched and understood reported vulnerabilities, showcasing analytical skills in cybersecurity.
+  - Drafted a clear and concise email to guide teams on vulnerability remediation.
+  - Utilized Python skills to write a script for ethical hacking, avoiding ransom payments by bruteforcing decryption keys.
+    
+- Datacom Cybersecurity Job Simulation on Forage - Feb 2024
+
+  - Completed a simulation focussed on how Datacom's cybersecurity team helps protect it's clients
+  - Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture
+  - Conducted a comprehensive risk assessment
+    
 - Center of Excellency in Digital Forensic(COEDF/NFSU) for 06 months(Going on)
-- CFSS
+  cybersecurity and Digital FOrensic inter:
+  - Malware analysis
+  - Threat hunting
+  - Social media and Network Forensic
+  - Mobile Forensic
+  - Computer forensic and investigation
+  
+- One Months Intership at CFSS cybersecurity and Forensics Solutions(Online curently going on)
+  The Speciality is SOC analyst
 
 <h2>👨‍💻 Technical skills:</h2>
 
