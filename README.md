@@ -2,7 +2,7 @@
 
 <h2>👨‍💻CAREER GOALS:</h2>
 
-I'm a dynamic and enthusiastic learner who is constantly seeking to learn more about the fields of cybersecurity and digital forensics in order to protect network infrastructures, information systems, and investigate cybercrimes. She also enjoys looking into the specifics of security incidents and cybercrimes in order to identify the perpetrators and determine what exactly happened. 
+I'm a dynamic and enthusiastic learner who is constantly seeking to learn more about the fields of cybersecurity and digital forensics in order to protect network infrastructures, information systems, and investigate cybercrimes. I also enjoy looking into the specifics of security incidents and cybercrimes in order to identify the perpetrators and determine what exactly happened. 
 
 I support proactive cybersecurity, and I'm prepared to use my analytical abilities to help fortify any organization's defences against possible intruders.
 
