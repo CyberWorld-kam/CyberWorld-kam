@@ -113,7 +113,7 @@ I support proactive cybersecurity, and I'm prepared to use my analytical abiliti
 <h2>👨‍💻 Language proficiency:</h2>
 
 - English (fluent)
-- French (write and speak fluently) 
+- French (Native) 
 
 
 <h2> 🤳 Connect with me:</h2>
